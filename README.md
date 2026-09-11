@@ -1,16 +1,5 @@
 # Dataset Repository for *Hierarchy-Aware Semantic Losses for Knowledge Graph Link Prediction*
 
-# TODO:
-- [x] codex
-    - [x] link to large files
-- [x] aifb
-- [x] biokg
-    - [x] link to large files
-- [ ] link to this from the original repo
-- [ ] download script
-
-
-
 This repository contains the datasets and dataset-processing code used in:
 
 > Hierarchy-Aware Semantic Losses for Knowledge Graph Link Prediction.
