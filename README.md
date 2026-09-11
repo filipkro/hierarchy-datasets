@@ -131,9 +131,6 @@ https://doi.org/10.48550/arXiv.2005.00687
 
 [7] Y. Djoumbou Feunang, R. Eisner, C. Knox, L. Chepelev, J. Hastings, G. Owen, E. Fahy, C. Steinbeck, S. Subramanian, E. Bolton, R. Greiner, and D.S. Wishart. *ClassyFire: Automated Chemical Classification With A Comprehensive, Computable Taxonomy*. https://doi.org/10.1186/s13321-016-0174-y
 
-[8] Kronström, F. and King R.D. (2026). *Hierarchy-Aware Semantic Losses for Knowledge Graph Link Prediction*. https://doi.org/10.48550/arXiv.2608.22981
-
-
 ## How to cite
 If you used our work or found it useful, make sure to cite both the underlying dataset (AIFB, CoDEx, or BioKG), as well as our [paper](https://openreview.net/pdf?id=mRfGldY4SX):
 
